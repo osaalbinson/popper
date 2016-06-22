@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Popper\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-04-18 10:15-0700\n"
+"PO-Revision-Date: Wed Jun 22 2016 10:20:43 GMT+0200 (Västeuropa, sommartid)\n"
+"Last-Translator: webmaster <epost@osasitc.se>\n"
+"Language-Team: \n"
+"Language: Swedish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: sv_SE"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Kommentar navigering"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Kommentarer är stängt."
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:18
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Publicerat med %s"
+
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s"
+msgstr "Tema: %1$s"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Huvudmeny"
+
+#: functions.php:113
+msgid "Widget Area"
+msgstr "Widget område"
+
+#: functions.php:145
+msgid "expand child menu"
+msgstr "expandera undermeny"
+
+#: functions.php:146
+msgid "collapse child menu"
+msgstr "fäll ihop undermeny"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Gå till innehåll"
+
+#: header.php:39
+#, php-format
+msgid "Go to the home page of %1$s"
+msgstr "Gå till förstasidan av %1$s"
+
+#: header.php:69
+msgid "Menu"
+msgstr "Meny"
+
+#: image.php:27
+msgid "Featured in: "
+msgstr "Med i:"
+
+#: image.php:28
+msgid "Full size image: "
+msgstr "Bild full storlek: "
+
+#: image.php:29
+msgid "Edit attachment post"
+msgstr "Redigera bifogad post"
+
+#: image.php:50 template-parts/content-page.php:28
+#: template-parts/content-single.php:55
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: inc/customizer.php:35
+msgid "Header Background Color"
+msgstr "Bakgrundsfärg rubrik"
+
+#: inc/customizer.php:46
+msgid "Theme Options"
+msgstr "Alternativ för tema"
+
+#: inc/customizer.php:49
+msgid "Change the default display options for the theme."
+msgstr "Ändra standard visnings alternativ för temat."
+
+#: inc/customizer.php:67
+msgid "Sidebar position"
+msgstr "Position sidebar"
+
+#: inc/customizer.php:70
+msgid "No sidebar (default)"
+msgstr "Ingen sidebar (standard)"
+
+#: inc/customizer.php:71
+msgid "Left sidebar"
+msgstr "Vänster sidebar"
+
+#: inc/customizer.php:72
+msgid "Right sidebar"
+msgstr "Höger sidebar"
+
+#: inc/template-tags.php:51 inc/template-tags.php:93 inc/template-tags.php:123
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:51 inc/template-tags.php:93 inc/template-tags.php:123
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:51 inc/template-tags.php:93 inc/template-tags.php:123
+#, c-format
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#. translators: used between category list items, there is a space after the comma
+#. translators: used between tag list items, there is a space after the comma
+#: inc/template-tags.php:109 inc/template-tags.php:115
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:111
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Publicerad i %1$s"
+
+#: inc/template-tags.php:117
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Taggad %1$s"
+
+#: inc/template-tags.php:127 template-parts/content-page.php:35
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/template-tags.php:265 single.php:32
+msgid "Previous"
+msgstr "Föregående"
+
+#: inc/template-tags.php:266 single.php:29
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/template-tags.php:274
+msgid "Posts navigation"
+msgstr "Navigering inlägg"
+
+#. translators: %s: Name of current post.
+#: inc/template-tags.php:289
+#, php-format
+msgid "Continue reading%s"
+msgstr "Fortsätt läsa%s"
+
+#: inc/template-tags.php:319
+msgid "Attachment post navigation"
+msgstr "Navigering bifogad post"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: single.php:30
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: single.php:33
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: template-parts/content-none.php:16
+msgid "Page not available"
+msgstr "Sidan ej tillgänglig"
+
+#. translators: %s = search query
+#: template-parts/content-none.php:19
+#, php-format
+msgid "Nothing found for &ldquo;%s&rdquo;"
+msgstr "Inget hittades för &ldquo;%s&rdquo;"
+
+#: template-parts/content-none.php:21
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: template-parts/content-none.php:30
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Ledsen, men inget matchade din sökterm. Prova igen med några andra sökord."
+
+#: template-parts/content-none.php:39
+msgid ""
+"You seem to be lost. To find what you are looking for check out the most "
+"recent articles below or try a search:"
+msgstr ""
+"Du verkar vilsen. För att hitta vad du söker kontrollera de senaste "
+"artiklarna nedan eller prova en sökning:"
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det verkar som vi inte kan hitta vad du letar efter. Kanske kan sökning "
+"hjälpa."
+
+#: template-parts/content-none.php:53
+msgid "Most recent posts:"
+msgstr "De allra senaste inläggen:"
+
+#: widgets/recent-comments.php:12
+msgid "Displays recent comments with user avatar and excerpt."
+msgstr "Visar senaste kommentarer med användares avatar och utdrag."
+
+#: widgets/recent-comments.php:13
+msgid "Enhanced Recent Comments"
+msgstr "Förbättrad senaste kommentarer"
+
+#: widgets/recent-comments.php:32
+msgid "Recent Comments"
+msgstr "Senaste kommentarer"
+
+#: widgets/recent-comments.php:65
+msgid "on"
+msgstr "på"
+
+#: widgets/recent-comments.php:103 widgets/recent-posts.php:106
+msgid "Title"
+msgstr "Rubrik"
+
+#: widgets/recent-comments.php:108
+msgid "Number of comments to display"
+msgstr "Antal kommentarer att visa"
+
+#: widgets/recent-comments.php:110 widgets/recent-posts.php:113
+msgid "Defaults to 5 if empty"
+msgstr "Standard till 5 om tom"
+
+#: widgets/recent-posts.php:13
+msgid "Displays most recent posts with featured image and publishing date."
+msgstr "Visa de senaste inläggen med utvald bild och datum för publicering."
+
+#: widgets/recent-posts.php:14
+msgid "Enhanced Recent Posts"
+msgstr "Förbättrad senaste inlägg"
+
+#: widgets/recent-posts.php:34
+msgid "Recent Posts"
+msgstr "Senaste inlägg"
+
+#: widgets/recent-posts.php:111
+msgid "Number of posts to display"
+msgstr "Antal inlägg att visa"
